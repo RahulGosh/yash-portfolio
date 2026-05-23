@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #333333;
+  --primary: #522ffe;
+  --card: #ffffff;
+}
+
+.dark {
+  --background: #030303;
+  --foreground: #ffffff;
+  --primary: #522ffe;
+  --card: #1d1d1d;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer components {
+  .card-shadow {
+    @apply shadow-[0_3px_10px_rgb(0,0,0,0.2)];
+  }
+
+  .circle-icon {
+    @apply flex items-center justify-center rounded-full w-11 h-11 md:w-14 md:h-14 bg-[#f4ebff] bg-opacity-[12%] absolute;
+  }
+
+  .highlight {
+    @apply bg-primary text-white px-5 rounded-[4px];
+  }
+
+  .section-contents {
+    @apply w-full flex flex-col items-center gap-10 md:gap-[50px];
+  }
+
+  .card {
+    @apply bg-card rounded-lg card-shadow;
+  }
+
+  .contact-button {
+    @apply p-1.5 rounded-md card-shadow flex items-center justify-center w-8 h-8;
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+}

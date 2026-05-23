@@ -1,0 +1,44 @@
+[
+  {
+    "image": "/user_1.png",
+    "name": "Ananya Sharma",
+    "role": "Senior UI/UX Designer @ PixelCraft",
+    "description":
+      "Yash delivered exceptional frontend work with remarkable attention to detail. His ability to turn complex ideas into smooth, interactive user experiences impressed our entire design team."
+  },
+  {
+    "image": "/user_2.png",
+    "name": "Arjun Mehta",
+    "role": "Software Engineer @ TechNova",
+    "description":
+      "Working with Yash was seamless. His React expertise and clean coding practices significantly improved our application's performance and maintainability."
+  },
+  {
+    "image": "/user_3.png",
+    "name": "Priya Kapoor",
+    "role": "Product Manager @ InnovateX",
+    "description":
+      "Yash consistently exceeded expectations throughout our project. He communicated clearly, delivered on time, and solved technical challenges with confidence."
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "name": "Rohan Verma",
+    "role": "Engineering Lead @ CloudSphere",
+    "description":
+      "Yash quickly understood our architecture and contributed high-quality code from day one. His dedication and problem-solving mindset made him a valuable part of the team."
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "name": "Sneha Iyer",
+    "role": "Creative Director @ StudioHive",
+    "description":
+      "The level of polish Yash brought to our frontend interfaces was outstanding. He perfectly balanced design aesthetics with responsive functionality."
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/men/75.jpg",
+    "name": "Aditya Nair",
+    "role": "Founder @ BuildStack",
+    "description":
+      "Yash helped us launch our platform faster than expected. His technical expertise, responsiveness, and commitment to quality made the collaboration extremely successful."
+  }
+]

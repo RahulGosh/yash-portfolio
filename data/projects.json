@@ -1,0 +1,196 @@
+[
+  {
+    "thumbnail": "/thumbnails/streamify.png",
+    "title": "Streamify - Language Exchange Social Platform",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://streamifychatyyyy.netlify.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/streamify"
+      }
+    ],
+    "description": "Full-stack language exchange social platform with JWT authentication, onboarding, friend requests, real-time 1:1 chat, and video calling. Built language-based user matching, Stream Chat/Video integration, group/community backend APIs, and theme personalization using React, TypeScript, Express, MongoDB, and Stream SDK.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:react-dark.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:nodejs-dark.svg",
+      "https://api.iconify.design/skill-icons:expressjs-dark.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+  {
+    "thumbnail": "/thumbnails/LMS.png",
+    "title": "LMS Course Mern Stack",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://lms-course-manage.netlify.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/LMS"
+      }
+    ],
+
+    "description": "A modern Learning Management System built with the MERN stack. It allows users to browse, enroll, and watch premium courses. Features include user authentication, course search, video playback, and Stripe payment integration. Designed with a clean UI and real-time data handling.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:react-dark.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg"
+    ]
+  },
+   {
+    "thumbnail": "/thumbnails/archi-touch thumbnail.png",
+    "title": "Archi-Touch Interior Design",
+     "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://archi-touch-one.vercel.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/archi-touch"
+      }
+    ],
+    
+    "description": "Advanced animated website for interior design services using Framer Motion. Fully responsive with smooth transitions and interactive elements to showcase design portfolio.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:react-dark.svg",
+      "https://cdn.worldvectorlogo.com/logos/framer-motion.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+  {
+    "thumbnail": "/thumbnails/served.png",
+    "title": "Served - AI-Powered Recipe Platform",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/ai-recipe-platform"
+      }
+    ],
+    "description": "AI-powered full-stack recipe platform that scans pantry images using Google Gemini AI to detect ingredients and generate personalized recipes instantly. Features include AI recipe search, cuisine/category browsing, favorites collections, PDF recipe exports, Clerk authentication, subscription tiers, and secure production-ready architecture using Next.js, Strapi CMS, Neon PostgreSQL, and Arcjet.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:react-dark.svg",
+      "https://api.iconify.design/skill-icons:nodejs-dark.svg",
+      "https://api.iconify.design/skill-icons:expressjs-dark.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+ 
+  {
+    "thumbnail": "/thumbnails/funroad.png",
+    "title": "Multitenant E-commerce SaaS Platform",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/funroad"
+      }
+    ],
+    "description": "Scalable multitenant e-commerce SaaS platform enabling multiple vendors to manage independent online stores within a unified system. Built secure tenant-level data isolation, centralized admin dashboards, automated commission handling with Stripe Connect, and high-performance APIs using Next.js 15, Payload CMS, tRPC, MongoDB, and Node.js.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:nextjs-dark.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg",
+      "https://api.iconify.design/logos:stripe.svg",
+      "https://api.iconify.design/skill-icons:nodejs-dark.svg",
+      "https://api.iconify.design/skill-icons:git.svg"
+    ]
+  },
+
+  {
+    "thumbnail": "/thumbnails/evently thumbnail.png",
+    "title": "Evently - Event Management",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://evently-six-lake.vercel.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/yourusername/evently"
+      }
+    ],
+    "description": "Next.js event platform with admin CRUD, Google/GitHub auth, and Prisma/PostgreSQL. Features include ticket ordering with coupon discounts, PDF downloads with QR codes, and secure QR validation via camera/file upload. Integrated email ticket delivery.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:nextjs-dark.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:prisma.svg",
+      "https://api.iconify.design/skill-icons:postgresql-dark.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+  {
+    "thumbnail": "/thumbnails/forever ecommerce mern stack.png",
+    "title": "Forever Ecommerce",
+    "links": [
+      {
+        "label": "Live Frontend",
+        "url": "https://ecommerce-frontend-1234.netlify.app/"
+      },
+      {
+        "label": "Live Admin",
+        "url": "https://ecommerce-admin-dashboard-1234.netlify.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/RahulGosh/ecommerce"
+      }
+    ],
+    "description": "Full-featured e-commerce app with React and Node.js. Includes product management, user authentication, and seamless order processing with mobile-first responsive design and admin dashboard.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:react-dark.svg",
+      "https://api.iconify.design/skill-icons:nodejs-dark.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+  {
+    "thumbnail": "/thumbnails/trello.png",
+    "title": "Trellux (Trello Clone)",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://trello-clone-ecru-pi.vercel.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/YashPuniwala/Trello-clone"
+      }
+    ],
+    "description": "A collaborative task management app inspired by Trello, built with React and Node.js. Features include board and list creation, draggable cards with real-time updates, and responsive UI for seamless productivity across devices. Designed with modern drag-and-drop functionality and clean layouts for team collaboration.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:nextjs-dark.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:prisma.svg",
+      "https://api.iconify.design/skill-icons:postgresql-dark.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  },
+
+  {
+    "thumbnail": "/thumbnails/messenger-video-thumbnail.png",
+    "title": "Messenger",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/RahulGosh/messenger-video"
+      }
+    ],
+    "description": "Responsive YouTube clone using React.js and RapidAPI. Features video playback in 1080P+, search functionality, category filtering, and modern UI mimicking YouTube's design.",
+    "languageIcons": [
+      "https://api.iconify.design/skill-icons:nextjs-dark.svg",
+      "https://api.iconify.design/skill-icons:typescript.svg",
+      "https://api.iconify.design/skill-icons:prisma.svg",
+      "https://api.iconify.design/skill-icons:mongodb.svg",
+      "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+    ]
+  }
+]

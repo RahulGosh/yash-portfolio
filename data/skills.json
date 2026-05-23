@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ReactJS",
+    "icon": "https://cdn.worldvectorlogo.com/logos/react-2.svg"
+  },
+  {
+    "name": "NextJS",
+    "icon": "https://api.iconify.design/skill-icons:nextjs-dark.svg"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"
+  },
+  {
+    "name": "Prisma",
+    "icon": "https://cdn.worldvectorlogo.com/logos/prisma-2.svg"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://cdn.worldvectorlogo.com/logos/postgresql.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+  },
+  {
+    "name": "Github",
+    "icon": "https://cdn.worldvectorlogo.com/logos/git-icon.svg"
+  }
+]

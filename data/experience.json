@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2282/2282188.png",
+    "company": "Yashi IT Services",
+    "role": "Frontend Developer",
+    "description": "Developed a pest control management platform serving internal business operations and customer management workflows. Integrated technician photo/signature capture, manual reporting, and automated PDF generation while improving operational efficiency and real-time data handling.",
+    "dates": "December 2025 - March 2026",
+    "fallbackLogo": "/yashi_it_fallback.png"
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "company": "CodeNest Solutions",
+    "role": "Fullstack Developer",
+    "description": "Built and maintained fullstack web applications using React, Node.js, Express, and MongoDB. Developed authentication systems, REST APIs, admin dashboards, and responsive frontend interfaces while optimizing application performance and scalability.",
+    "dates": "August 2025 - November 2025",
+    "fallbackLogo": "/codenest_fallback.png"
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2421/2421233.png",
+    "company": "Archi-Touch",
+    "role": "Frontend Developer",
+    "description": "Designed and developed a responsive interior design business website with advanced animations and modern UI/UX practices. Improved engagement through interactive landing pages, optimized responsiveness across devices, and enhanced rendering performance.",
+    "dates": "February 2025 - August 2025",
+    "fallbackLogo": "/architouch_fallback.png"
+  }
+]
